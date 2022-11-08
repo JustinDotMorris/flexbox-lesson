@@ -1,0 +1,49 @@
+#container{
+    width: 90vmin;
+    height: 90vmin;
+    margin: auto;
+    background-color: #222121;
+    color: #222121;
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+  
+  }
+  /* This is each flex item */
+  .container__box{
+    border-radius: 2px;
+    padding: 5px;
+    height: 40px;
+    width: 40px;
+  }
+  #box-one{
+    background-color: #E0145C;
+  }
+  #box-two{
+    background-color: #9E1DB5;
+  }
+  #box-three {
+    background-color: #6F3CE9;
+  }
+  #box-four{
+    background-color: #3979E8;
+  }
+  #box-five{
+    background-color: #01BCD7;
+  }
+  #box-six{
+    background-color: #7BB13A;
+  }
+  #box-seven{
+    background-color: #B8C91D;
+  }
+  #box-eight{
+    background-color: #E6D519;
+  }
+  #box-nine{
+    background-color: #E5AE02;
+  }
+  #box-ten{
+    background-color: #E74E0A;
+  }
